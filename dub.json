@@ -1,0 +1,11 @@
+{
+	"name": "easyparse",
+	"configurations": [
+		{
+			"name": "default"
+		},
+		{
+			"name": "unittest"
+		}
+	]
+}
